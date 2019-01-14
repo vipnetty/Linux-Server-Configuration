@@ -8,8 +8,8 @@ You will secure your server from a number of attack vectors, install and configu
 contents of private RSA file is in LightsailDefaultKey-ap-southeast-1.pem
 IP address of server : 13.229.112.66
 Username for grader : "grader"
-Server login password for grader : "11111
-Pasword for sudo access " ""
+Server login password for grader : "11111"
+Password for sudo access : ""
 Port : 2200
 URL : http://ec2-13-229-112-66.ap-southeast-1.compute.amazonaws.com
 
